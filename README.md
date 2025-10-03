@@ -21,14 +21,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProooXyyy&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ProooXyyy?label=Followers&style=for-the-badge&color=764ba2" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ProooXyyy?label=Stars&style=for-the-badge&color=f093fb" alt="stars" />
-</p>
-
----
-
 <div align="center">
 
 ### 🚀 About Me
