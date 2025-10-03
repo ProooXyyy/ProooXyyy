@@ -251,7 +251,7 @@ mindmap
 
 💬 **Ask me about:** Data Analysis, Web Development, Game Dev, AI/ML, UI/UX Design
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashwant-bhosle-proxy/) | [GitHub](https://github.com/ProooXyyy) | Email
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashwant-bhosle-proxy/) | [GitHub](https://github.com/ProooXyyy) | [Email](mailto:bhosleyash18@gmail.com)
 
 ⚡ **Fun fact:** I can debug code and design beautiful UIs with equal passion!
 
